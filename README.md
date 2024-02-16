@@ -18,3 +18,8 @@ Input a unique access code to participate in a defined activity.
 Access an interface split into four rectangles, each containing an emoticon representing different reactions (smiley face, frowny face, surprised face, confused face).
 Provide feedback by selecting an emoticon at any time during the activity.
 Add an unlimited number of feedback instances.
+
+Technology Stack
+Frontend: HTML, CSS, JavaScript (Single Page Application architecture)
+Backend: Node.js with Express.js framework, Sequelize ORM
+Database: MySQL
